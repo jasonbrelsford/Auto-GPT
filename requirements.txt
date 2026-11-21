@@ -3,7 +3,7 @@ colorama==0.4.6
 distro==1.8.0
 openai==0.27.2
 playsound==1.2.2
-python-dotenv==1.0.0
+python-dotenv==1.2.2
 pyyaml==6.0
 readability-lxml==0.8.1
 requests
@@ -31,7 +31,7 @@ numpy
 pre-commit
 black
 isort
-gitpython==3.1.31
+gitpython==3.2.1
 auto-gpt-plugin-template
 mkdocs
 pymdown-extensions
